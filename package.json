@@ -1,0 +1,15 @@
+{
+  "name": "Pathways Engine",
+  "version": "0.1.0",
+
+  "jam": {
+    "packageDir": "./vendor/jam",
+    "baseUrl": "./app",
+
+    "dependencies": {
+      "backbone": "*",
+      "jquery": "*",
+      "lodash": "*"
+    }
+  }
+}
